@@ -1,3 +1,5 @@
+//As a mere of self-punishment for late uploading I sacrificed my beautiful Visual Studio and switched to Ubuntu :(
+
 #include <iostream>
 
 using namespace std;
